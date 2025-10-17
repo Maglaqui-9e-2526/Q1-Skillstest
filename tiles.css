@@ -1,0 +1,32 @@
+body{
+	background-color: lightskyblue;
+}
+
+.container{
+	width: 80%;
+	border: 1px solid gray;
+	padding: 10px;
+	margin: 10px auto;
+	border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	border: 6px solid #000000;
+	display: flex;
+}
+.box{
+	width: 25%;
+	border: 1px solid gray;
+	padding: 10px;
+	margin: 5%;	
+	background-color: peachpuff;
+	border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+}
+h1{
+	text-align: center;
+	color: firebrick;
+}
+#Gallery h3{
+	color: salmon;
+}
